@@ -23,116 +23,116 @@ ROOT_DIR = "."  # Run this script inside your DSA_Prep folder
 
 STRUCTURE = {
     "1_Arrays": [
-        "ArrayRotation", "KthLargestSmallest", "MajorityElement",
-        "FindDuplicates", "KadanesAlgorithm", "TwoSumProblem",
-        "MergeIntervals", "SubarraySumEqualsK", "TrappingRainWater",
-        "LongestConsecutiveSequence", "ProductOfArrayExceptSelf",
-        "SlidingWindowPattern"
+        # "ArrayRotation", "KthLargestSmallest", "MajorityElement",
+        # "FindDuplicates", "KadanesAlgorithm", "TwoSumProblem",
+        # "MergeIntervals", "SubarraySumEqualsK", "TrappingRainWater",
+        # "LongestConsecutiveSequence", "ProductOfArrayExceptSelf",
+        # "SlidingWindowPattern"
     ],
     "2_Strings": [
-        "PalindromeCheck", "AnagramCheck", "StringReversal",
-        "LongestCommonSubstring", "LongestPalindromicSubstring",
-        "KMPAlgorithm", "RabinKarpAlgorithm", "GroupAnagrams",
-        "WordBreakProblem", "EditDistance", "MinimumWindowSubstring",
-        "LongestRepeatingSubsequence", "SlidingWindowOnStrings"
+        # "PalindromeCheck", "AnagramCheck", "StringReversal",
+        # "LongestCommonSubstring", "LongestPalindromicSubstring",
+        # "KMPAlgorithm", "RabinKarpAlgorithm", "GroupAnagrams",
+        # "WordBreakProblem", "EditDistance", "MinimumWindowSubstring",
+        # "LongestRepeatingSubsequence", "SlidingWindowOnStrings"
     ],
     "3_Recursion": [
-        "BasicsOfRecursion", "FactorialAndPower", "FibonacciRecursive",
-        "SumOfDigits", "ReverseStringRecursive", "ReverseLinkedListRecursive",
-        "TowerOfHanoi", "GenerateAllSubsequences",
-        "RecursionVsIteration", "TailRecursion"
+        # "BasicsOfRecursion", "FactorialAndPower", "FibonacciRecursive",
+        # "SumOfDigits", "ReverseStringRecursive", "ReverseLinkedListRecursive",
+        # "TowerOfHanoi", "GenerateAllSubsequences",
+        # "RecursionVsIteration", "TailRecursion"
     ],
     "4_LinkedLists": [
-        "SinglyLinkedList", "DoublyLinkedList", "CircularLinkedList",
-        "ReverseLinkedList", "DetectAndRemoveLoop", "MergeTwoSortedLists",
-        "IntersectionPoint", "RemoveNthNodeFromEnd", "PalindromeLinkedList",
-        "FlattenLinkedList"
+        # "SinglyLinkedList", "DoublyLinkedList", "CircularLinkedList",
+        # "ReverseLinkedList", "DetectAndRemoveLoop", "MergeTwoSortedLists",
+        # "IntersectionPoint", "RemoveNthNodeFromEnd", "PalindromeLinkedList",
+        # "FlattenLinkedList"
     ],
     "5_StacksAndQueues": [
-        "StackImplementation", "QueueImplementation", "InfixToPostfix",
-        "BalancedParentheses", "NextGreaterElement",
-        "StackUsingQueues", "QueueUsingStacks", "LRUCache",
-        "CircularQueue", "SlidingWindowMaximum", "EvaluatePostfixExpression"
+        # "StackImplementation", "QueueImplementation", "InfixToPostfix",
+        # "BalancedParentheses", "NextGreaterElement",
+        # "StackUsingQueues", "QueueUsingStacks", "LRUCache",
+        # "CircularQueue", "SlidingWindowMaximum", "EvaluatePostfixExpression"
     ],
     "6_CollectionsFramework": [
-        "ArrayListVsLinkedList", "HashMapInternalWorking",
-        "HashSetVsTreeSetVsLinkedHashSet",
-        "HashMapVsTreeMapVsLinkedHashMap", "PriorityQueueUsage",
-        "ArrayDequeAsStackAndQueue", "StackVsArrayDeque",
-        "IteratorVsListIteratorVsForEach", "ComparableVsComparator",
-        "CollectionsUtilityMethods", "FailFastVsFailSafeIterators",
-        "ConcurrentCollectionsOverview"
+        # "ArrayListVsLinkedList", "HashMapInternalWorking",
+        # "HashSetVsTreeSetVsLinkedHashSet",
+        # "HashMapVsTreeMapVsLinkedHashMap", "PriorityQueueUsage",
+        # "ArrayDequeAsStackAndQueue", "StackVsArrayDeque",
+        # "IteratorVsListIteratorVsForEach", "ComparableVsComparator",
+        # "CollectionsUtilityMethods", "FailFastVsFailSafeIterators",
+        # "ConcurrentCollectionsOverview"
     ],
     "7_Hashing": [
-        "HashMapImplementation", "CollisionResolutionTechniques",
-        "CountFrequencies", "TwoSumProblem", "SubarraySumEqualsK",
-        "GroupAnagrams", "FindDuplicateSubtrees", "FindItineraryFromTickets"
+        # "HashMapImplementation", "CollisionResolutionTechniques",
+        # "CountFrequencies", "TwoSumProblem", "SubarraySumEqualsK",
+        # "GroupAnagrams", "FindDuplicateSubtrees", "FindItineraryFromTickets"
     ],
     "8_Trees": [
-        "BinaryTreeImplementation", "BSTImplementation",
-        "TreeTraversals", "LowestCommonAncestor", "DiameterOfBinaryTree",
-        "LevelOrderTraversal", "HeightOfBinaryTree", "InvertBinaryTree",
-        "TreeFromInorderPreorderPostorder", "CheckBalancedBinaryTree",
-        "SerializeDeserializeBinaryTree", "MaximumPathSum",
-        "KthSmallestElementInBST"
+        # "BinaryTreeImplementation", "BSTImplementation",
+        # "TreeTraversals", "LowestCommonAncestor", "DiameterOfBinaryTree",
+        # "LevelOrderTraversal", "HeightOfBinaryTree", "InvertBinaryTree",
+        # "TreeFromInorderPreorderPostorder", "CheckBalancedBinaryTree",
+        # "SerializeDeserializeBinaryTree", "MaximumPathSum",
+        # "KthSmallestElementInBST"
     ],
     "9_Graphs": [
-        "GraphRepresentation", "DFS", "BFS", "DijkstraAlgorithm",
-        "BellmanFordAlgorithm", "FloydWarshallAlgorithm",
-        "KruskalsMST", "PrimsMST", "TopologicalSorting",
-        "CycleDetection", "KosarajuSCC", "UnionFindAlgorithm",
-        "UnionFindApplications"
+        # "GraphRepresentation", "DFS", "BFS", "DijkstraAlgorithm",
+        # "BellmanFordAlgorithm", "FloydWarshallAlgorithm",
+        # "KruskalsMST", "PrimsMST", "TopologicalSorting",
+        # "CycleDetection", "KosarajuSCC", "UnionFindAlgorithm",
+        # "UnionFindApplications"
     ],
     "10_DynamicProgramming": [
-        "ZeroOneKnapsack", "LongestCommonSubsequence",
-        "LongestIncreasingSubsequence", "MatrixChainMultiplication",
-        "CoinChangeProblem", "RodCuttingProblem", "EditDistance",
-        "SubsetSumProblem", "PartitionEqualSubsetSum",
-        "WildcardMatching", "PalindromePartitioning"
+        # "ZeroOneKnapsack", "LongestCommonSubsequence",
+        # "LongestIncreasingSubsequence", "MatrixChainMultiplication",
+        # "CoinChangeProblem", "RodCuttingProblem", "EditDistance",
+        # "SubsetSumProblem", "PartitionEqualSubsetSum",
+        # "WildcardMatching", "PalindromePartitioning"
     ],
     "11_Backtracking": [
-        "NQueensProblem", "RatInAMaze", "SudokuSolver", "WordSearch",
-        "GenerateAllPermutations", "CombinationSum",
-        "PartitionToKEqualSumSubsets", "HamiltonianCycle",
-        "SubsetsIIWithDuplicates", "PalindromePartitioning"
+        # "NQueensProblem", "RatInAMaze", "SudokuSolver", "WordSearch",
+        # "GenerateAllPermutations", "CombinationSum",
+        # "PartitionToKEqualSumSubsets", "HamiltonianCycle",
+        # "SubsetsIIWithDuplicates", "PalindromePartitioning"
     ],
     "12_Greedy": [
-        "ActivitySelectionProblem", "HuffmanCoding", "JobSequencingProblem",
-        "FractionalKnapsackProblem", "MinimumNumberOfPlatforms",
-        "PrimsMST", "KruskalsMST", "DijkstraAlgorithm"
+        # "ActivitySelectionProblem", "HuffmanCoding", "JobSequencingProblem",
+        # "FractionalKnapsackProblem", "MinimumNumberOfPlatforms",
+        # "PrimsMST", "KruskalsMST", "DijkstraAlgorithm"
     ],
     "13_Searching": [
-        "LinearSearch", "BinarySearch", "TernarySearch",
-        "ExponentialSearch", "InterpolationSearch",
-        "BinarySearchOnAnswer", "DFS", "BFS"
+        # "LinearSearch", "BinarySearch", "TernarySearch",
+        # "ExponentialSearch", "InterpolationSearch",
+        # "BinarySearchOnAnswer", "DFS", "BFS"
     ],
     "14_Sorting": [
-        "BubbleSort", "SelectionSort", "InsertionSort",
-        "MergeSort", "QuickSort", "HeapSort", "RadixSort"
+        # "BubbleSort", "SelectionSort", "InsertionSort",
+        # "MergeSort", "QuickSort", "HeapSort", "RadixSort"
     ],
     "15_BitManipulation": [
-        "CountSetBits", "FindOnlyNonRepeatingElement",
-        "PowerOfTwoCheck", "FindTwoNonRepeatingElements",
-        "CountBitsToFlip", "DivideWithoutDivisionOperator",
-        "FindMissingNumber", "SwapWithoutTempVariable",
-        "PowerSetUsingBitwise", "ReverseBitsOfNumber"
+        # "CountSetBits", "FindOnlyNonRepeatingElement",
+        # "PowerOfTwoCheck", "FindTwoNonRepeatingElements",
+        # "CountBitsToFlip", "DivideWithoutDivisionOperator",
+        # "FindMissingNumber", "SwapWithoutTempVariable",
+        # "PowerSetUsingBitwise", "ReverseBitsOfNumber"
     ],
     "16_MathematicalAlgorithms": [
-        "SieveOfEratosthenes", "EuclideanGCD", "LCMOfTwoNumbers",
-        "ModularExponentiation", "PrimeFactorization",
-        "FibonacciNumbers", "CatalanNumbers", "CheckIfPrime",
-        "CountDigitsInNumber", "PowerOfNumberUsingExponentiation"
+        # "SieveOfEratosthenes", "EuclideanGCD", "LCMOfTwoNumbers",
+        # "ModularExponentiation", "PrimeFactorization",
+        # "FibonacciNumbers", "CatalanNumbers", "CheckIfPrime",
+        # "CountDigitsInNumber", "PowerOfNumberUsingExponentiation"
     ],
     "17_Patterns": [
-        "PyramidPattern", "DiamondPattern", "PascalsTriangle",
-        "NumberPatterns", "AlphabetPatterns", "ZigzagPattern",
-        "ButterflyPattern"
+        # "PyramidPattern", "DiamondPattern", "PascalsTriangle",
+        # "NumberPatterns", "AlphabetPatterns", "ZigzagPattern",
+        # "ButterflyPattern"
     ],
     "18_Miscellaneous": [
-        "PigeonholePrinciple", "ReservoirSampling", "RandomizedQuickSort",
-        "FloydsCycleDetection", "ApproximateCounting",
-        "FindMissingNumber", "ShuffleAnArray", "TrieImplementation",
-        "MedianFromDataStream"
+        # "PigeonholePrinciple", "ReservoirSampling", "RandomizedQuickSort",
+        # "FloydsCycleDetection", "ApproximateCounting",
+        # "FindMissingNumber", "ShuffleAnArray", "TrieImplementation",
+        # "MedianFromDataStream"
     ],
 }
 
