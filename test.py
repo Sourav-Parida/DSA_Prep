@@ -121,10 +121,10 @@ STRUCTURE = {
 }
 
 JAVA_TEMPLATE = """public class {class_name} {{
-
-    // TODO: Implement {readable_name}
-
     public static void main(String[] args) {{
+
+        
+
 
     }}
 }}
