@@ -1,27 +1,11 @@
-"""
-DSA Prep Structure Generator
------------------------------
-Creates a folder-per-topic structure for DSA preparation.
-
-Each folder gets:
-  - 0_README.md with a checklist of topics
-  - One Java placeholder file per topic
-  - Files are numbered as:
-        1_ArrayRotation.java
-        2_KthLargestSmallest.java
-        ...
-
-Run:
-    python setup_dsa_structure.py
-
-Change ROOT_DIR below if you want the structure to be created somewhere else.
-"""
-
 import os
 
 ROOT_DIR = "."  # Run this script inside your DSA_Prep folder
 
 STRUCTURE = {
+    "0_Test": [
+        "Demo"
+    ],
     "1_Arrays": [
         # "ArrayRotation", "KthLargestSmallest", "MajorityElement",
         # "FindDuplicates", "KadanesAlgorithm", "TwoSumProblem",
